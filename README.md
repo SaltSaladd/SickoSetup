@@ -1,4 +1,7 @@
-# SickoSetup
+# DO NOT USE THIS, LATEST AMONG US UPDATE BREAKS IT!
+
+
+## SickoSetup
 A setup script for SickoMenu, for linux.
 #### If you see rapid errors in the terminal about wine, you can safely ignore them.
 ## Requirements
